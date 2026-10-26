@@ -15,13 +15,13 @@
 <!-- LIVE:START -->
 ### right now
 
-`2026-10-25 22:40 UTC` · public + private · refreshes about hourly
+`2026-10-26 01:22 UTC` · public + private · refreshes about hourly
 
 | today | this week | last 14 days | public repos | followers |
 |------:|----------:|-------------:|-------------:|----------:|
-| **127** | **244** | **432** | **15** | **3** |
+| **8** | **229** | **394** | **15** | **3** |
 
-`10-12` ▂▂▂▂▁▂▂▁▁   ▅█ `10-25`
+`10-13` ▂▂▂▁▂▂▁▁   ▅█▁ `10-26`
 
 <!-- LIVE:END -->
 
